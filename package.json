@@ -57,5 +57,10 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "ember-addon": {
+    "paths": [
+      "lib/in-repo"
+    ]
   }
 }

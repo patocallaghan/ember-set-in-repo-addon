@@ -1,0 +1,10 @@
+{
+  "name": "in-repo",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "ember-cli-htmlbars": "^5.3.1",
+    "ember-cli-babel": "^7.22.1"
+  }
+}
